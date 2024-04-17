@@ -1,0 +1,84 @@
+[
+    {
+        "number": 1,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_1.jpg",
+        "correct_choice": "A"
+    },
+
+    {
+        "number": 2,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_2.jpg",
+        "correct_choice": "B"
+    },
+    {
+        "number": 3,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_3.jpg",
+        "correct_choice": "C"
+    },
+    {
+        "number": 4,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_4.jpg",
+        "correct_choice": "D"
+    },
+    {
+        "number": 5,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_5.jpg",
+        "correct_choice": "E"
+    },
+    {
+        "number": 6,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_6.jpg",
+        "correct_choice": "A"
+    },
+    {
+        "number": 7,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_7.jpg",
+        "correct_choice": "B"
+    },
+    {
+        "number": 8,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_8.jpg",
+        "correct_choice": "C"
+    },
+    {
+        "number": 9,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_9.jpg",
+        "correct_choice": "D"
+    },
+    {
+        "number": 10,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_10.jpg",
+        "correct_choice": "E"
+    },
+
+    {
+        "number": 11,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_11.jpg",
+        "correct_choice": "A"
+    },
+    {
+        "number": 12,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_12.jpg",
+        "correct_choice": "B"
+    },
+    {
+        "number": 13,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_13.jpg",
+        "correct_choice": "C"
+    },
+    {
+        "number": 14,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_14.jpg",
+        "correct_choice": "D"
+    },
+    {
+        "number": 15,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_15.jpg",
+        "correct_choice": "E"
+    },
+    {
+        "number": 16,
+        "imageFilePath": "./files/media/quiz_matematika/quiz_mm_16.jpg",
+        "correct_choice": "A"
+    }
+]

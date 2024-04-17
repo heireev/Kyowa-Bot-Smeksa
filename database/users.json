@@ -1,0 +1,512 @@
+[
+  {
+    "role": "GURU",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6285176838012",
+    "name": "M.Rifqi Irawan",
+    "regnumber": "197008201994031007",
+    "group": ""
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285298256034",
+    "name": "IRFA",
+    "regnumber": "2206011",
+    "group": "XI DPB 1"
+  },
+  {
+    "role": "SISWA-KETUA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "62882021604591",
+    "name": "IRMA",
+    "regnumber": "2206012",
+    "group": "XI DPB 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6287762660009",
+    "name": "ADINDA PUSPITA SARI",
+    "regnumber": "2206003",
+    "group": "XI DPB 1"
+  },
+  {
+    "role": "GURU",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285397302707",
+    "name": "JUMRIYATI, S.Pd.",
+    "regnumber": "198007112005022005",
+    "group": ""
+  },
+  {
+    "role": "GURU",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6289502976892",
+    "name": "M.RIFQI IRAWAN",
+    "regnumber": "200209500003999999",
+    "group": ""
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6288706047477",
+    "name": "AMELIA DEWI ALDA",
+    "regnumber": "2203004",
+    "group": "XI MP 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285339458286",
+    "name": "MILTAHIDAH",
+    "regnumber": "2203020",
+    "group": "XI MP 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285956614371",
+    "name": "HAMRA",
+    "regnumber": "2203017",
+    "group": "XI MP 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285757132982",
+    "name": "FARDIAN",
+    "regnumber": "2203016",
+    "group": "XI MP 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6281243486196",
+    "name": "AZIZAH AZZAHRA",
+    "regnumber": "2206025",
+    "group": "XI DPB 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6282296479347",
+    "name": "AURA FITRIA RASYA",
+    "regnumber": "2206033",
+    "group": "XI DPB 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6281237744397",
+    "name": "RASTI",
+    "regnumber": "2206047",
+    "group": "XI DPB 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6285255152036",
+    "name": "AHMAD AL FARIZI",
+    "regnumber": "2202003",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6281524581689",
+    "name": "ANJAS HIDAYAT",
+    "regnumber": "2202007",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6283119252907",
+    "name": "NUR AZIZAH",
+    "regnumber": "2202021",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6282347899590",
+    "name": "ALWING ZAM",
+    "regnumber": "2202005",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6285212347195",
+    "name": "SITI NURHALISA",
+    "regnumber": "2202026",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6282147201734",
+    "name": "SARMILA",
+    "regnumber": "2202025",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6285823436089",
+    "name": "MUZAKKIR",
+    "regnumber": "2202020",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6282135900990",
+    "name": "FHAREL PRATAMA RHAMADHAN",
+    "regnumber": "2202009",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285825546604",
+    "name": "HELIZA",
+    "regnumber": "2202010",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6281524264963",
+    "name": "MUH. AKRAM",
+    "regnumber": "2202013",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "62882021604499",
+    "name": "ADELIAH",
+    "regnumber": "2202002",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285394581197",
+    "name": "ASMIATI",
+    "regnumber": "2203040",
+    "group": "XI MP 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285757341914",
+    "name": "CINDY AURELIA",
+    "regnumber": "2203044",
+    "group": "XI MP 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "62882020086292",
+    "name": "PUTRI ELISA",
+    "regnumber": "2203062",
+    "group": "XI MP 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6289504483906",
+    "name": "RANI",
+    "regnumber": "2203063",
+    "group": "XI MP 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6281251793012",
+    "name": "NURUL ALFAHIRA",
+    "regnumber": "2203058",
+    "group": "XI MP 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6285696349653",
+    "name": "NURUL HIDAYAH",
+    "regnumber": "2203059",
+    "group": "XI MP 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6282195325863",
+    "name": "HAFIDZ ANSYARI",
+    "regnumber": "2203050",
+    "group": "XI MP 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6281243874149",
+    "name": "FEBRIYANTI WINANDA",
+    "regnumber": "2203047",
+    "group": "XI MP 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6285242260184",
+    "name": "Masriani",
+    "regnumber": "2203052",
+    "group": "XI MP2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6285342697468",
+    "name": "IRHAB HIDAYAT",
+    "regnumber": "2202011",
+    "group": "XI BD 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6281023751605",
+    "name": "NANDA APRILIA",
+    "regnumber": "2205021",
+    "group": "XI DKV 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6288704222864",
+    "name": "PURNAMA",
+    "regnumber": "2205024",
+    "group": "XI DKV 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285941887681",
+    "name": "NUR AFNY AYUSHITA",
+    "regnumber": "2206044",
+    "group": "XI DPB 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "62882020468874",
+    "name": "AULIYA RAMADANI",
+    "regnumber": "2201008",
+    "group": "XI TKJ"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285255081688",
+    "name": "ARMANSYAH",
+    "regnumber": "2201006",
+    "group": "XI TKJ"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "62882020975390",
+    "name": "ALIF FIRMANSYAH",
+    "regnumber": "2201002",
+    "group": "XI TKJ"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285696963891",
+    "name": "RAHIM",
+    "regnumber": "2204029",
+    "group": "XI AK 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6283110801969",
+    "name": "RINA ZULHIKMAH",
+    "regnumber": "2204030",
+    "group": "XI AK 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285256420122",
+    "name": "NURJULIANI",
+    "regnumber": "2204026",
+    "group": "XI AK 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": false,
+    "points": 10,
+    "number": "6285155297669",
+    "name": "MIRZA MADDEPUNGENG",
+    "regnumber": "2201016",
+    "group": "XI TKJ"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "62882020523430",
+    "name": "ERIC",
+    "regnumber": "2204003",
+    "group": "XI AK 1"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6288744541979",
+    "name": "MAISA TYAS PRATAMA",
+    "regnumber": "2204053",
+    "group": "XI AK 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6282343735594",
+    "name": "AKMAL",
+    "regnumber": "2205038",
+    "group": "XI AK 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285298830018",
+    "name": "DIKA KUSUMA PUTRA",
+    "regnumber": "2204043",
+    "group": "XI AK 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285930998976",
+    "name": "ANDI KUNTUNG PALETTEI",
+    "regnumber": "2204037",
+    "group": "XI AK 2"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6285210127452",
+    "name": "MUHAMMAD ALFATH GHIFARI",
+    "regnumber": "2201021",
+    "group": "XI TKJ"
+  },
+  {
+    "role": "SISWA",
+    "member": true,
+    "premium": true,
+    "points": 30,
+    "number": "6282149435429",
+    "name": "MUHAMMAD ARHAN",
+    "regnumber": "2205017",
+    "group": "XI DKV 1"
+  }
+]
